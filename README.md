@@ -1,4 +1,4 @@
-**TooCoolForSchool.org**
+|**TooCoolForSchool.org**|
 TooCoolForSchool.org is a fork of a proxy called InvisiProxy.
 This fork is for a reasonable purpose.
 
